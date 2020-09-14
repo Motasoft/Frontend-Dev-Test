@@ -1,6 +1,6 @@
 # Frontend Dev Test Project
 
-We would like you to build a simple component from the wireframe image (nasa.png) contained in this package. There is no right or wrong way to go about it. We want to see your approach to HTML, CSS, and Javascript/Angular. Feel free to use any existing html/css frameworks or libraries that you are comfortable with.
+We would like you to build a simple component from the wireframe image (nasa.png) contained in this package. There is no right or wrong way to go about it. We want to see your approach to HTML, CSS, and Javascript/Angular. Feel free to use any external html/css frameworks or libraries that you are comfortable with.
 
 The API end point is https://apodapi.herokuapp.com/search?search_query=mars&number=1&page=1. The refresh button should return a new image by randomly selecting a page number between 1 and 100.
 
