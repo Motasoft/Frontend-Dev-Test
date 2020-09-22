@@ -8,3 +8,6 @@ The API end point is https://apodapi.herokuapp.com/search?search_query=mars&numb
 
 # Deliverable
 Please send us a copy of the build folder as well as the source code, as we'd love to see your approach to the project. Alternatively, create a repository to work on your component, and give us access to it!
+
+# Fire it across
+When you've finished, fire it across to andy@motasoft.co.uk.
